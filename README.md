@@ -11,7 +11,7 @@ Flaws:
 - Multi-character motion isn't supported yet.
 
 Requirements:
-- Blender version 3.60 To 4.50 only (Doesn't work with +5.0.0 Versions of blender.)
+- Blender version 3.6.0 To 4.5.0 only (Doesn't work with +5.0.0 Versions of blender.)
 - Basic blender knowledge.
 
 How to install:
