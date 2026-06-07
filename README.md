@@ -16,8 +16,10 @@ Requirements:
 
 How to install:
 
-<img width="1280" height="720" alt="HowToInstall" src="https://github.com/user-attachments/assets/bcd67008-f1b7-4884-9cf4-79ac896c0307" />
+<img width="1280" height="720" alt="HowToInstall" src="https://github.com/user-attachments/assets/cfd0097f-b67d-494d-b96f-2695f6dcf038" />
+
 
 How to use:
 
-<img width="1280" height="720" alt="HowToUse" src="https://github.com/user-attachments/assets/8db5238c-5f81-45be-a4d9-e9567c961141" />
+<img width="1280" height="720" alt="HowToUse" src="https://github.com/user-attachments/assets/4f48c45a-1ab4-4bfe-9162-9f549c848e97" />
+
