@@ -1,12 +1,15 @@
-GTPS2MotionTool v1.0: Blender add-on for importing and exporting character motion (.mot) files.
+GTPS2MotionTool v2.0: Blender add-on for importing and exporting GT4/TT motion (.mot) files.
+
+Examples of Custom Motion:
+<img width="1717" height="966" alt="CustomMotTest" src="https://github.com/user-attachments/assets/1bcfdaa4-fcb1-44db-a38a-b3fb38a9c6cb" />
 
 Features: 
 - Imports & exports character motion to GT4/TT
+- Imports & exports camera/light motion to GT4/TT
 - Supports most character motion
 - Animation can have custom interpolation
 
 Flaws:
-- Exported motion can double in size compared to original motion (Will be improved in future updates).
 - Adding custom animation from a different skeleton isn't supported yet due to game engine using custom skeletal structure (Vice versa with GT motion to a new skeleton).
 - Multi-character motion isn't supported yet.
 
@@ -16,10 +19,11 @@ Requirements:
 
 How to install:
 
-<img width="1280" height="720" alt="HowToInstall" src="https://github.com/user-attachments/assets/cfd0097f-b67d-494d-b96f-2695f6dcf038" />
+<img width="800" height="450" alt="HowToInstall1" src="https://github.com/user-attachments/assets/c2cd2894-cb1d-4cd1-b26a-9e336d5ca441" />
 
+How to use: File > Import GT4/TT .mot file > Select the Mot type from the side UI > YourMotionFile.Mot 
+- For exporting a Mot file the tool auto-detects which type of Mot you selected and will export it as the selected Mot.
 
-How to use:
+<img width="405" height="720" alt="ImportExportType" src="https://github.com/user-attachments/assets/cf89ecff-c22e-4fbd-8aa9-d19dea530a09" />
 
-<img width="1280" height="720" alt="HowToUse" src="https://github.com/user-attachments/assets/4f48c45a-1ab4-4bfe-9162-9f549c848e97" />
-
+- Special thanks for orewa.w's help in figuring out the export motion size <3
