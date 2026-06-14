@@ -1,3 +1,4 @@
+# OLD VERSION OF THE TOOL/ADDON
 bl_info = {
     "name": "Gran Turismo 4 MotionTool",
     "author": "Saif/Claude",
