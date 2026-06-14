@@ -1,6 +1,6 @@
 GTPS2MotionTool v2.0: Blender add-on for importing and exporting GT4/TT motion (.mot) files.
 
-Examples of Custom Motion:
+Example of custom motion:
 <img width="1717" height="966" alt="CustomMotTest" src="https://github.com/user-attachments/assets/1bcfdaa4-fcb1-44db-a38a-b3fb38a9c6cb" />
 
 Features: 
